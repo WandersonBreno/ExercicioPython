@@ -1,3 +1,4 @@
+#Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 pi = 3.1412
 raio = float(input("Digite o valor do raio: "))
 

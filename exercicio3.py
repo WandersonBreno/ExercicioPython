@@ -1,3 +1,4 @@
+#Faça um Programa que peça dois números e imprima a soma.
 print("Exercício de soma entre dois números")
 
 numero1 = int(input("Digite o primeiro número: ")) #entrada número 1 digitado pelo usuário
